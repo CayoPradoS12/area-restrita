@@ -1,0 +1,12 @@
+# Segredos e chaves (nunca subir)
+.env
+.env.*
+*.pem
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
+
+# Arquivos do sistema/editor
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
